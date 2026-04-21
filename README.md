@@ -1,4 +1,4 @@
-# 🚀 Online Exam System (Assessly)
+# 🚀 Online Exam System (Evalix)
 
 <p align="center">
 <img src="https://img.shields.io/badge/Java-17-blue?style=for-the-badge&logo=java&logoColor=white" alt="Java 17">
@@ -100,7 +100,6 @@ project-root/
 <img width="1920" height="1080" alt="Screenshot 2026-04-21 230804" src="https://github.com/user-attachments/assets/59b5af43-10a7-4fa2-a221-fb794f149283" />
 <br><br>
 
-
 ---
 
 <h2 align="center">🎓 Student Pages</h2>
@@ -142,7 +141,7 @@ project-root/
 
 #### ➕ Create New Exam
 
-<img width="1920" height="1080" alt="Screenshot 2026-04-21 001646" src="https://github.com/user-attachments/assets/33721252-3e64-411c-a314-a86f3cbf4f17" />
+<img width="1600" height="900" alt="WhatsApp Image 2026-04-21 at 1 28 52 AM" src="https://github.com/user-attachments/assets/5ab5adcc-f14b-46fa-bee5-1ed6b0437b05" />
 <br><br>
 
 #### 👥 Manage Students
