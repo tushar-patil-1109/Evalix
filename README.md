@@ -7,8 +7,8 @@
 <img src="https://img.shields.io/badge/H2%20Database-lightgrey?style=for-the-badge" alt="H2 Database">
 </p>
 
-- “Evalix is a full-stack online examination platform built using Spring Boot 3, Spring Security, JPA/Hibernate, and Thymeleaf. It enables administrators to create and manage exams, while students can attempt tests in a secure, timed environment with real-time evaluation and analytics.”
--  The platform provides a secure and user-friendly environment for **Admins** and **Students** to manage and take online tests effectively.
+- “Evalix is a full-stack online examination platform built using Spring Boot 3, Spring Security, JPA/Hibernate, and Thymeleaf.
+- The platform provides a secure and user-friendly environment where administrators can create and manage exams, while students can attempt tests in a timed setting with real-time evaluation and performance analytics.
 - Designed using layered architecture (Controller → Service → DAO → Entity).
 - Focused on security, scalability, and data consistency.
 
