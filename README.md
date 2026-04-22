@@ -216,7 +216,7 @@ Password : password
 
 # 👨‍💻 Author :- Tushar Patil 
 
-<a href="https://wa.me/8378990863">
+<a href="https://wa.me/+91 8378990863">
 <img src="https://img.shields.io/badge/WhatsApp-Chat%20Now-green?style=for-the-badge&logo=whatsapp" >
 </a>
 
