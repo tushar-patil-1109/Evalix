@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/H2%20Database-lightgrey?style=for-the-badge" alt="H2 Database">
 </p>
 
-- “Evalix is a full-stack online examination platform built using Spring Boot 3, Spring Security, JPA/Hibernate, and Thymeleaf.
+- Evalix is a full-stack online examination platform built using Spring Boot 3, Spring Security, JPA/Hibernate, and Thymeleaf.
 - The platform provides a secure and user-friendly environment where administrators can create and manage exams, while students can attempt tests in a timed setting with real-time evaluation and performance analytics.
 - Designed using layered architecture (Controller → Service → DAO → Entity).
 - Focused on security, scalability, and data consistency.
@@ -166,8 +166,8 @@ project-root/
 ### ✔️ Clone the Repository
 
 ```bash
-git clone https://github.com/tushar-patil-1109/Assessly.git
-cd Assessly
+git clone https://github.com/tushar-patil-1109/Evalix.git
+cd Evalix
 ```
 
 ---
